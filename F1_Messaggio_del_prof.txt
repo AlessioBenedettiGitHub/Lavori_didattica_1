@@ -1,2 +1,5 @@
 Buon lavoro, ragazzi!
 
+Ogni ramo di questa repository conterrà un diverso lavoro,
+ed il versioning sarà così più ordinato.
+
